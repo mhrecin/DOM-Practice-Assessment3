@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(148, 69, 161);
+}
+.pink {
+    background-color: rgb(192, 92, 162);
+}
+
+.circle {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px dotted rgb(65, 168, 61);
+    border-radius: 100%;
+}
